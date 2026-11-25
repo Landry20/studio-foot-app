@@ -1,0 +1,588 @@
+{
+ "La Liga": [
+  {
+   "club": "Real Madrid",
+   "file": "equipe_real_madrid.json",
+   "players": 26,
+   "clubId": "club-real-madrid"
+  },
+  {
+   "club": "Deportivo Alavés",
+   "file": "la-liga/deportivo-alaves.json",
+   "players": 27,
+   "clubId": "club-deportivo-alaves"
+  },
+  {
+   "club": "Athletic Bilbao",
+   "file": "la-liga/athletic-bilbao.json",
+   "players": 29,
+   "clubId": "club-athletic-bilbao"
+  },
+  {
+   "club": "Atlético Madrid",
+   "file": "la-liga/atletico-madrid.json",
+   "players": 22,
+   "clubId": "club-atletico-madrid"
+  },
+  {
+   "club": "FC Barcelona",
+   "file": "la-liga/fc-barcelona.json",
+   "players": 26,
+   "clubId": "club-fc-barcelona"
+  },
+  {
+   "club": "Elche CF",
+   "file": "la-liga/elche-cf.json",
+   "players": 28,
+   "clubId": "club-elche-cf"
+  },
+  {
+   "club": "RCD Espanyol",
+   "file": "la-liga/rcd-espanyol.json",
+   "players": 20,
+   "clubId": "club-rcd-espanyol"
+  },
+  {
+   "club": "Getafe CF",
+   "file": "la-liga/getafe-cf.json",
+   "players": 17,
+   "clubId": "club-getafe-cf"
+  },
+  {
+   "club": "Levante UD",
+   "file": "la-liga/levante-ud.json",
+   "players": 24,
+   "clubId": "club-levante-ud"
+  },
+  {
+   "club": "Málaga CF",
+   "file": "la-liga/malaga-cf.json",
+   "players": 28,
+   "clubId": "club-malaga-cf"
+  },
+  {
+   "club": "CA Osasuna",
+   "file": "la-liga/ca-osasuna.json",
+   "players": 24,
+   "clubId": "club-ca-osasuna"
+  },
+  {
+   "club": "Rayo Vallecano",
+   "file": "la-liga/rayo-vallecano.json",
+   "players": 26,
+   "clubId": "club-rayo-vallecano"
+  },
+  {
+   "club": "Real Betis",
+   "file": "la-liga/real-betis.json",
+   "players": 25,
+   "clubId": "club-real-betis"
+  },
+  {
+   "club": "Real Sociedad",
+   "file": "la-liga/real-sociedad.json",
+   "players": 23,
+   "clubId": "club-real-sociedad"
+  },
+  {
+   "club": "Sevilla FC",
+   "file": "la-liga/sevilla-fc.json",
+   "players": 22,
+   "clubId": "club-sevilla-fc"
+  },
+  {
+   "club": "Valencia CF",
+   "file": "la-liga/valencia-cf.json",
+   "players": 24,
+   "clubId": "club-valencia-cf"
+  },
+  {
+   "club": "Villarreal CF",
+   "file": "la-liga/villarreal-cf.json",
+   "players": 24,
+   "clubId": "club-villarreal-cf"
+  },
+  {
+   "club": "Racing de Santander",
+   "file": "la-liga/racing-de-santander.json",
+   "players": 24,
+   "clubId": "club-racing-de-santander"
+  },
+  {
+   "club": "Deportivo de A Coruña",
+   "file": "la-liga/deportivo-de-a-coruna.json",
+   "players": 27,
+   "clubId": "club-deportivo-de-a-coruna"
+  },
+  {
+   "club": "RC Celta de Vigo",
+   "file": "la-liga/rc-celta-de-vigo.json",
+   "players": 25,
+   "clubId": "club-rc-celta-de-vigo"
+  }
+ ],
+ "Premier League": [
+  {
+   "club": "Arsenal",
+   "file": "premier-league/arsenal-f-c.json",
+   "players": 25,
+   "clubId": "club-arsenal-f-c"
+  },
+  {
+   "club": "Aston Villa",
+   "file": "premier-league/aston-villa-f-c.json",
+   "players": 28,
+   "clubId": "club-aston-villa-f-c"
+  },
+  {
+   "club": "AFC Bournemouth",
+   "file": "premier-league/afc-bournemouth.json",
+   "players": 28,
+   "clubId": "club-afc-bournemouth"
+  },
+  {
+   "club": "Brentford",
+   "file": "premier-league/brentford-f-c.json",
+   "players": 29,
+   "clubId": "club-brentford-f-c"
+  },
+  {
+   "club": "Brighton & Hove Albion",
+   "file": "premier-league/brighton-hove-albion-f-c.json",
+   "players": 30,
+   "clubId": "club-brighton-hove-albion-f-c"
+  },
+  {
+   "club": "Chelsea",
+   "file": "premier-league/chelsea-f-c.json",
+   "players": 30,
+   "clubId": "club-chelsea-f-c"
+  },
+  {
+   "club": "Coventry City",
+   "file": "premier-league/coventry-city-f-c.json",
+   "players": 30,
+   "clubId": "club-coventry-city-f-c"
+  },
+  {
+   "club": "Crystal Palace",
+   "file": "premier-league/crystal-palace-f-c.json",
+   "players": 27,
+   "clubId": "club-crystal-palace-f-c"
+  },
+  {
+   "club": "Everton",
+   "file": "premier-league/everton-f-c.json",
+   "players": 21,
+   "clubId": "club-everton-f-c"
+  },
+  {
+   "club": "Fulham",
+   "file": "premier-league/fulham-f-c.json",
+   "players": 25,
+   "clubId": "club-fulham-f-c"
+  },
+  {
+   "club": "Hull City",
+   "file": "premier-league/hull-city-a-f-c.json",
+   "players": 33,
+   "clubId": "club-hull-city-a-f-c"
+  },
+  {
+   "club": "Ipswich Town",
+   "file": "premier-league/ipswich-town-f-c.json",
+   "players": 25,
+   "clubId": "club-ipswich-town-f-c"
+  },
+  {
+   "club": "Leeds United",
+   "file": "premier-league/leeds-united-f-c.json",
+   "players": 23,
+   "clubId": "club-leeds-united-f-c"
+  },
+  {
+   "club": "Liverpool",
+   "file": "premier-league/liverpool-f-c.json",
+   "players": 30,
+   "clubId": "club-liverpool-f-c"
+  },
+  {
+   "club": "Manchester City",
+   "file": "premier-league/manchester-city-f-c.json",
+   "players": 25,
+   "clubId": "club-manchester-city-f-c"
+  },
+  {
+   "club": "Manchester United",
+   "file": "premier-league/manchester-united-f-c.json",
+   "players": 31,
+   "clubId": "club-manchester-united-f-c"
+  },
+  {
+   "club": "Newcastle United",
+   "file": "premier-league/newcastle-united-f-c.json",
+   "players": 25,
+   "clubId": "club-newcastle-united-f-c"
+  },
+  {
+   "club": "Nottingham Forest",
+   "file": "premier-league/nottingham-forest-f-c.json",
+   "players": 24,
+   "clubId": "club-nottingham-forest-f-c"
+  },
+  {
+   "club": "Sunderland",
+   "file": "premier-league/sunderland-a-f-c.json",
+   "players": 28,
+   "clubId": "club-sunderland-a-f-c"
+  },
+  {
+   "club": "Tottenham Hotspur",
+   "file": "premier-league/tottenham-hotspur-f-c.json",
+   "players": 29,
+   "clubId": "club-tottenham-hotspur-f-c"
+  }
+ ],
+ "Bundesliga": [
+  {
+   "club": "FC Augsburg",
+   "file": "bundesliga/fc-augsburg.json",
+   "players": 17,
+   "clubId": "club-fc-augsburg"
+  },
+  {
+   "club": "FC Schalke 04",
+   "file": "bundesliga/fc-schalke-04.json",
+   "players": 25,
+   "clubId": "club-fc-schalke-04"
+  },
+  {
+   "club": "1. FC Union Berlin",
+   "file": "bundesliga/1-fc-union-berlin.json",
+   "players": 27,
+   "clubId": "club-1-fc-union-berlin"
+  },
+  {
+   "club": "SV Werder Bremen",
+   "file": "bundesliga/sv-werder-bremen.json",
+   "players": 28,
+   "clubId": "club-sv-werder-bremen"
+  },
+  {
+   "club": "Borussia Dortmund",
+   "file": "bundesliga/borussia-dortmund.json",
+   "players": 30,
+   "clubId": "club-borussia-dortmund"
+  },
+  {
+   "club": "SV Elversberg",
+   "file": "bundesliga/sv-elversberg.json",
+   "players": 25,
+   "clubId": "club-sv-elversberg"
+  },
+  {
+   "club": "Eintracht Frankfurt",
+   "file": "bundesliga/eintracht-frankfurt.json",
+   "players": 25,
+   "clubId": "club-eintracht-frankfurt"
+  },
+  {
+   "club": "SC Freiburg",
+   "file": "bundesliga/sc-freiburg.json",
+   "players": 26,
+   "clubId": "club-sc-freiburg"
+  },
+  {
+   "club": "Hamburger SV",
+   "file": "bundesliga/hamburger-sv.json",
+   "players": 22,
+   "clubId": "club-hamburger-sv"
+  },
+  {
+   "club": "TSG 1899 Hoffenheim",
+   "file": "bundesliga/tsg-1899-hoffenheim.json",
+   "players": 25,
+   "clubId": "club-tsg-1899-hoffenheim"
+  },
+  {
+   "club": "1. FC Köln",
+   "file": "bundesliga/1-fc-koln.json",
+   "players": 28,
+   "clubId": "club-1-fc-koln"
+  },
+  {
+   "club": "RB Leipzig",
+   "file": "bundesliga/rb-leipzig.json",
+   "players": 29,
+   "clubId": "club-rb-leipzig"
+  },
+  {
+   "club": "Bayer 04 Leverkusen",
+   "file": "bundesliga/bayer-04-leverkusen.json",
+   "players": 27,
+   "clubId": "club-bayer-04-leverkusen"
+  },
+  {
+   "club": "1. FSV Mainz 05",
+   "file": "bundesliga/1-fsv-mainz-05.json",
+   "players": 25,
+   "clubId": "club-1-fsv-mainz-05"
+  },
+  {
+   "club": "Borussia Mönchengladbach",
+   "file": "bundesliga/borussia-monchengladbach.json",
+   "players": 30,
+   "clubId": "club-borussia-monchengladbach"
+  },
+  {
+   "club": "FC Bayern Munich",
+   "file": "bundesliga/fc-bayern-munich.json",
+   "players": 25,
+   "clubId": "club-fc-bayern-munich"
+  },
+  {
+   "club": "SC Paderborn 07",
+   "file": "bundesliga/sc-paderborn-07.json",
+   "players": 27,
+   "clubId": "club-sc-paderborn-07"
+  },
+  {
+   "club": "VfB Stuttgart",
+   "file": "bundesliga/vfb-stuttgart.json",
+   "players": 28,
+   "clubId": "club-vfb-stuttgart"
+  }
+ ],
+ "Serie A": [
+  {
+   "club": "Frosinone Calcio",
+   "file": "serie-a/frosinone-calcio.json",
+   "players": 30,
+   "clubId": "club-frosinone-calcio"
+  },
+  {
+   "club": "AC Monza",
+   "file": "serie-a/ac-monza.json",
+   "players": 31,
+   "clubId": "club-ac-monza"
+  },
+  {
+   "club": "Atalanta BC",
+   "file": "serie-a/atalanta-bc.json",
+   "players": 24,
+   "clubId": "club-atalanta-bc"
+  },
+  {
+   "club": "Bologna FC 1909",
+   "file": "serie-a/bologna-fc-1909.json",
+   "players": 28,
+   "clubId": "club-bologna-fc-1909"
+  },
+  {
+   "club": "Cagliari Calcio",
+   "file": "serie-a/cagliari-calcio.json",
+   "players": 28,
+   "clubId": "club-cagliari-calcio"
+  },
+  {
+   "club": "Como 1907",
+   "file": "serie-a/como-1907.json",
+   "players": 27,
+   "clubId": "club-como-1907"
+  },
+  {
+   "club": "ACF Fiorentina",
+   "file": "serie-a/acf-fiorentina.json",
+   "players": 23,
+   "clubId": "club-acf-fiorentina"
+  },
+  {
+   "club": "Genoa CFC",
+   "file": "serie-a/genoa-cfc.json",
+   "players": 29,
+   "clubId": "club-genoa-cfc"
+  },
+  {
+   "club": "Inter Milan",
+   "file": "serie-a/inter-milan.json",
+   "players": 24,
+   "clubId": "club-inter-milan"
+  },
+  {
+   "club": "Juventus FC",
+   "file": "serie-a/juventus-fc.json",
+   "players": 31,
+   "clubId": "club-juventus-fc"
+  },
+  {
+   "club": "Venezia FC",
+   "file": "serie-a/venezia-fc.json",
+   "players": 33,
+   "clubId": "club-venezia-fc"
+  },
+  {
+   "club": "SS Lazio",
+   "file": "serie-a/ss-lazio.json",
+   "players": 28,
+   "clubId": "club-ss-lazio"
+  },
+  {
+   "club": "US Lecce",
+   "file": "serie-a/us-lecce.json",
+   "players": 27,
+   "clubId": "club-us-lecce"
+  },
+  {
+   "club": "AC Milan",
+   "file": "serie-a/ac-milan.json",
+   "players": 27,
+   "clubId": "club-ac-milan"
+  },
+  {
+   "club": "SSC Napoli",
+   "file": "serie-a/ssc-napoli.json",
+   "players": 26,
+   "clubId": "club-ssc-napoli"
+  },
+  {
+   "club": "Parma Calcio 1913",
+   "file": "serie-a/parma-calcio-1913.json",
+   "players": 27,
+   "clubId": "club-parma-calcio-1913"
+  },
+  {
+   "club": "AS Roma",
+   "file": "serie-a/as-roma.json",
+   "players": 24,
+   "clubId": "club-as-roma"
+  },
+  {
+   "club": "US Sassuolo Calcio",
+   "file": "serie-a/us-sassuolo-calcio.json",
+   "players": 32,
+   "clubId": "club-us-sassuolo-calcio"
+  },
+  {
+   "club": "Torino FC",
+   "file": "serie-a/torino-fc.json",
+   "players": 27,
+   "clubId": "club-torino-fc"
+  },
+  {
+   "club": "Udinese Calcio",
+   "file": "serie-a/udinese-calcio.json",
+   "players": 27,
+   "clubId": "club-udinese-calcio"
+  }
+ ],
+ "Ligue 1": [
+  {
+   "club": "Le Mans FC",
+   "file": "ligue-1/le-mans-fc.json",
+   "players": 28,
+   "clubId": "club-le-mans-fc"
+  },
+  {
+   "club": "Angers SCO",
+   "file": "ligue-1/angers-sco.json",
+   "players": 19,
+   "clubId": "club-angers-sco"
+  },
+  {
+   "club": "AJ Auxerre",
+   "file": "ligue-1/aj-auxerre.json",
+   "players": 25,
+   "clubId": "club-aj-auxerre"
+  },
+  {
+   "club": "Stade Brestois 29",
+   "file": "ligue-1/stade-brestois-29.json",
+   "players": 17,
+   "clubId": "club-stade-brestois-29"
+  },
+  {
+   "club": "Le Havre AC",
+   "file": "ligue-1/le-havre-ac.json",
+   "players": 25,
+   "clubId": "club-le-havre-ac"
+  },
+  {
+   "club": "RC Lens",
+   "file": "ligue-1/rc-lens.json",
+   "players": 27,
+   "clubId": "club-rc-lens"
+  },
+  {
+   "club": "Lille OSC",
+   "file": "ligue-1/lille-osc.json",
+   "players": 23,
+   "clubId": "club-lille-osc"
+  },
+  {
+   "club": "FC Lorient",
+   "file": "ligue-1/fc-lorient.json",
+   "players": 25,
+   "clubId": "club-fc-lorient"
+  },
+  {
+   "club": "Olympique Lyonnais",
+   "file": "ligue-1/olympique-lyonnais.json",
+   "players": 27,
+   "clubId": "club-olympique-lyonnais"
+  },
+  {
+   "club": "Olympique de Marseille",
+   "file": "ligue-1/olympique-de-marseille.json",
+   "players": 20,
+   "clubId": "club-olympique-de-marseille"
+  },
+  {
+   "club": "AS Monaco FC",
+   "file": "ligue-1/as-monaco-fc.json",
+   "players": 23,
+   "clubId": "club-as-monaco-fc"
+  },
+  {
+   "club": "OGC Nice",
+   "file": "ligue-1/ogc-nice.json",
+   "players": 27,
+   "clubId": "club-ogc-nice"
+  },
+  {
+   "club": "Paris FC",
+   "file": "ligue-1/paris-fc.json",
+   "players": 24,
+   "clubId": "club-paris-fc"
+  },
+  {
+   "club": "Paris Saint-Germain FC",
+   "file": "ligue-1/paris-saint-germain-fc.json",
+   "players": 25,
+   "clubId": "club-paris-saint-germain-fc"
+  },
+  {
+   "club": "Stade Rennais FC",
+   "file": "ligue-1/stade-rennais-fc.json",
+   "players": 25,
+   "clubId": "club-stade-rennais-fc"
+  },
+  {
+   "club": "RC Strasbourg Alsace",
+   "file": "ligue-1/rc-strasbourg-alsace.json",
+   "players": 29,
+   "clubId": "club-rc-strasbourg-alsace"
+  },
+  {
+   "club": "Toulouse FC",
+   "file": "ligue-1/toulouse-fc.json",
+   "players": 21,
+   "clubId": "club-toulouse-fc"
+  },
+  {
+   "club": "ES Troyes AC",
+   "file": "ligue-1/es-troyes-ac.json",
+   "players": 20,
+   "clubId": "club-es-troyes-ac"
+  }
+ ]
+}
